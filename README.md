@@ -16,19 +16,19 @@ This is the recommended approach as it handles the repository creation and GitHu
 ### Method 2: Using Git
 
 1. Initialize Git in your project folder
-git init -b main
+'git init -b main'
 
 2. Stage all your files for the first commit
-git add .
+'git add .'
 
 3. Commit the files with a message
-git commit -m "Initial commit"
+'git commit -m "Initial commit"'
 
 4. Link your local project to your GitHub repository
-git remote add origin PASTE_YOUR_COPIED_GITHUB_URL_HERE
+'git remote add origin PASTE_YOUR_COPIED_GITHUB_URL_HERE'
 
 5. Push your code to GitHub
-git push -u origin main
+'git push -u origin main'
 
 
 ## Project details and flow
